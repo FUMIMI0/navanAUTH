@@ -2,24 +2,22 @@
   "users": [
     {
       "username": "Tru",
-      "hwid": "A1B2C3D4E5F67890123456789ABCDEF1234567890ABCDEF1234567890ABCDEF",
-      "uuid": "550e8400-e29b-41d4-a716-446655440000",
+      "hwid": "C0CBE90E124E89EE111D852BF11672B5BAD6D080C514F06F87D96C06BB064189",
       "role": "Dev",
       "expiry": "2026-12-31"
     },
     {
       "username": "ZZZ",
-      "hwid": "FEDCBA9876543210FEDCBA9876543210FEDCBA9876543210FEDCBA9876543210",
-      "uuid": "660e8400-e29b-41d4-a716-446655440001", 
+      "hwid": "0",
       "role": "BETA",
       "expiry": "2099-12-1"
     },
     {
       "username": "Cat_Baka",
-      "hwid": "11223344556677889900AABBCCDDEEFF11223344556677889900AABBCCDDEEFF",
-      "uuid": "770e8400-e29b-41d4-a716-446655440002",
+      "hwid": "0",
       "role": "USER",
       "expiry": "2099-01-01"
     }
   ]
+
 }
