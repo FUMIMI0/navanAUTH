@@ -16,11 +16,18 @@
       "username": "Cat_Baka",
       "hwid": "0",
       "role": "USER",
-      "expiry": "2099-01-01"
+      "expiry": "2099-12-11"
+    }
+    {
+      "username": "imthetop1",
+      "hwid": "82A548C427F8E2CCFA6152A77B7BE01F3EA033EBB6546EB0593B9BA16475EFFD",
+      "role": "BETA",
+      "expiry": "2099-12-11"
     }
   ]
 
 }
+
 
 
 
