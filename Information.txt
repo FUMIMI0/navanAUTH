@@ -8,7 +8,7 @@
     },
     {
       "username": "ZZZ",
-      "hwid": "0",
+      "hwid": "9F5FFE2CD354656F2E6DBC5E048329469B2969A8CEDDC905E6EB9D3B1324D360",
       "role": "BETA",
       "expiry": "2099-12-11"
     },
@@ -21,4 +21,5 @@
   ]
 
 }
+
 
